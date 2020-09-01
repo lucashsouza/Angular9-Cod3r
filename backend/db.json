@@ -6,7 +6,9 @@
       "price": 5.89
     },
     {
-      "id": 2
+      "id": 2,
+      "name": "Óculos de Sol",
+      "price": 74.99
     },
     {
       "id": 3,
