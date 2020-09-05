@@ -9,3 +9,16 @@
     3. Adicionando a dependencia do JSON server: "npm i json-server"
     4. Abra o arquivo 'package.json' e adicione comando "start": "json-server --watch db.properties --port 3001" dentro de "scripts".
     5. Execute o comando 'npm start'.
+
+# Frontend
+    
+    1. Instalar dependencias do angular/cli
+    npm i -g @angular/cli
+
+    2. Criar o projeto
+    ng new frontend --minimal
+
+    3. Acessar pasta frontend
+    cd frontend
+
+    4. Para iniciar, "npm start"
