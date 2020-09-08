@@ -11,6 +11,7 @@
     5. Execute o comando 'npm start'.
 
 # Frontend
+    Utilizado Angular  
     
     1. Instalar dependencias do angular/cli
     npm i -g @angular/cli
