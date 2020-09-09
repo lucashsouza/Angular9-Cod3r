@@ -26,3 +26,8 @@
     cd frontend
 
     4. Para iniciar, "npm start"
+
+# Criação de componentes
+    "ng g c" ou "ng generate component" 
+
+    Exemplo: ng g c components/templates/header
