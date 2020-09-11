@@ -27,6 +27,9 @@
 
     4. Para iniciar, "npm start"
 
+# Documentação
+    Material: https://material.io/resources/icons/?style=baseline
+    
 # Criação de componentes
     "ng g c" ou "ng generate component" 
 
