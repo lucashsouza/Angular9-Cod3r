@@ -1,36 +1,34 @@
-# Angular 9 - Essencial
+# Angular 9 - Essencial (Versão README.md: 2.0)
     Aprenda os principais recursos do framework de forma direta à partir da construção de uma aplicação.
 
-# Backend (JSON Server)
+## Documentação
 
-    1. Instale o npm: 'sudo apt install npm'
-    2. Execute o comando 'npm init -y' para criação do arquivo 'package.json'.
-    3. Adicionando a dependencia do JSON server: "npm i json-server"
-    4. Abra o arquivo 'package.json' e adicione comando "start": "json-server --watch db.properties --port 3001" dentro de "scripts".
-    5. Execute o comando 'npm start'.
+[Angular 9](https://angular.io/docs)
+[Material](https://material.io/resources/icons/?style=baseline)
 
-# Frontend (Angular)
-    
-    Inicialmente, Execute os seguintes comandos no terminal:
-    npm install
-    ng update
-    npm update
-    
-    1. Instalar dependencias do angular/cli
-    sudo npm i -g @angular/cli
+## Backend (JSON Server)
 
-    2. Criar o projeto
-    ng new frontend --minimal
+Para iniciar o servico do Backend, abra o terminal no diretorio do projeto e execute os seguintes comandos:
+1.<code>cd backend</code>
+2.<code>npm start</code>
 
-    3. Acessar pasta frontend
-    cd frontend
+Requisicoes = http://localhost:3001
 
-    4. Para iniciar, "npm start"
+## Frontend (Angular)
+Antes de iniciar, execute os seguintes comandos no terminal:
+1. <code>npm install</code>
+2. <code>ng update</code>
+3. <code>npm update</code>
 
-# Documentação
-    Material: https://material.io/resources/icons/?style=baseline
-    
-# Criação de componentes
-    "ng g c" ou "ng generate component" 
+Para iniciar o servico do Frontend, abra o terminal no diretorio do projeto e execute os seguintes comandos:
+1.<code>cd frontend</code>
+2.<code>npm start</code>
+Após iniciado o serviço [Clique aqui](http://localhost:4200) ou acesse http://localhost:4200
 
-    Exemplo: ng g c components/templates/header
+## Exemplos
+
+Criando componentes:
+<code>"ng g c"</code> <strong> ou </strong><code>"ng generate component"</code><br/>
+<strong>Header: </strong><code> ng g c components/templates/header</code>
+<strong>Footer: </strong><code>ng g c components/template/footer</code>
+<strong>Nav: </strong><code> ng g c components/template/nav </code>
