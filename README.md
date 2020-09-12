@@ -1,4 +1,4 @@
-# Angular 9 - Essencial (Versão README.md: 2.0)
+# Angular 9 - Essencial (Versão README.md: 2.1)
     Aprenda os principais recursos do framework de forma direta à partir da construção de uma aplicação.
 
 ## Documentação
