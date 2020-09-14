@@ -1,4 +1,4 @@
-# Angular 9 - Essencial (Versão README.md: 2.2)
+# Angular 9 - Essencial (Versão README.md: 2.3)
     Aprenda os principais recursos do framework de forma direta à partir da construção de uma aplicação.
 
 ## Documentação
@@ -35,3 +35,7 @@ Criando componentes:
 <strong>Header: </strong><code> ng g c components/templates/header</code><br />
 <strong>Footer: </strong><code>ng g c components/template/footer</code><br />
 <strong>Nav: </strong><code> ng g c components/template/nav </code><br />
+
+Criando Services:
+<code>"ng g s <name>"</code> <strong> ou </strong><code>"ng generate service <name>"</code><br />
+<strong>Produto Service: </strong><code> ng g s services/product</code><br />
