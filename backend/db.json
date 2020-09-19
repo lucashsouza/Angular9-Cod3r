@@ -1,29 +1,33 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Caneta BIC",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Óculos de Sol",
-      "price": 74.99
-    },
-    {
-      "id": 3,
-      "name": "Samsung S20",
-      "price": 5000.89
-    },
-    {
-      "name": "Playstation",
-      "price": "2410.99",
-      "id": 4
-    },
-    {
-      "name": "Geladeira",
-      "price": "1913.99",
-      "id": 5
-    }
-  ]
+    "products": [{
+            "id": 1,
+            "name": "Caneta BIC",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Óculos de Sol",
+            "price": 74.99
+        },
+        {
+            "id": 3,
+            "name": "Samsung S20",
+            "price": 5000.89
+        },
+        {
+            "name": "Playstation",
+            "price": "2410.99",
+            "id": 4
+        },
+        {
+            "name": "Geladeira",
+            "price": "1913.99",
+            "id": 5
+        },
+        {
+            "name": "Produto de teste",
+            "price": 125.69,
+            "id": 6
+        }
+    ]
 }
