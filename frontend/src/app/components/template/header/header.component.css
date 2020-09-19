@@ -1,4 +1,4 @@
-.header{
+.header {
     display: flex;
     align-items: center;
 }
@@ -17,10 +17,10 @@
     padding-left: 25px;
 }
 
-.header .title-group i{
+.header .title-group i {
     padding-right: 5px;
 }
 
-.imagemEsquerda{
+.imagemEsquerda {
     padding-right: 120px;
 }
