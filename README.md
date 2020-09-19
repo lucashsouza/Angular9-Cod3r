@@ -38,4 +38,4 @@ Criando componentes:
 
 Criando Services:
 <code>"ng g s <name>"</code> <strong> ou </strong><code>"ng generate service <name>"</code><br />
-<strong>Produto Service: </strong><code> ng g s services/product</code><br />
+<strong>Produto Service: </strong><code> ng g s components/product/product</code><br />
