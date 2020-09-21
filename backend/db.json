@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "Caneta Bic",
-      "price": "6.10",
+      "price": "6.11",
       "id": 1
     },
     {
@@ -24,11 +24,6 @@
       "id": 5,
       "name": "Geladeira",
       "price": "1913.99"
-    },
-    {
-      "id": 6,
-      "name": "Produto de teste",
-      "price": 125.69
     }
   ]
 }
